@@ -1,20 +1,32 @@
 [
 
 	{
-	"PRODUTOS DISPONÍVEIS"
-	"- 3 quit de cílios"
-	"- 2 pinças"
-	"- 2 tubos de cola"
-	},
-	
-	{
-	"PRODUTOS A COMPMRAR"
-	"- 5 Pacotes de algodão"
-	"- 2 pacotes de Palitos"
-	"- 8 vidros de henna"
-	"- 2 Pinças"
+	"id": "1",
+	"nome": "Quit de cÃ­lios",
+	"disponivel" true,
+
+	"id": "2",
+	"nome": "PinÃ§as",
+	"disponivel" true,
+
+	"id": "3",
+	"nome": "Tubos de cola",
+	"disponivel" true,
+
+	"id": "4",
+	"nome": "Pacotes de algodÃ£o",
+	"disponivel" false,
+
+	"id": "5",
+	"nome": "Pacotes de Palitos",
+	"disponivel" false,
+
+	"id": "6",
+	"nome": "Vidros de henna",
+	"disponivel" false
 	}
 
 ]
+
 
 
